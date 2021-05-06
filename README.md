@@ -2,7 +2,7 @@
 
 ### 구성
 
-- Spring Boot 2.4
+- Spring Boot
 - Spring Data Jpa
 - QueryDSL 
 - H2 DB
@@ -17,7 +17,8 @@
    9000번이 점유 중인지 확인 바랍니다. 
    
    - java 11
-   - spring boot 2.1.5
+   - spring boot 2.4.5
+   - lombok
     ```
    
 <br/>
